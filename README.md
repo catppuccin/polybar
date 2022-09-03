@@ -11,9 +11,6 @@
 	<a href="https://github.com/catppuccin/polybar/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/polybar?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/sample.png"/>
-</p>
 
 ## Usage
 
