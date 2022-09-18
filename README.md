@@ -17,7 +17,7 @@
 
 ## Usage
 
-1. Download the file with your desired flavour e.g. `mocha.ini` (to be found in the [release](https://github.com/catppuccin/polybar/releases/latest) or after cloning the repository)
+1. Download the file with your desired flavour e.g. `mocha.ini` (to be found in the [release](https://github.com/catppuccin/polybar/releases/latest) or after cloning the repository in the `themes` folder)
 2. Copy it into your polybar config e.g. `~/.config/polybar`
 3. Include the file in your `config.ini` under [global/wm]
    - `include-file = $HOME/.config/polybar/colors.ini` 
@@ -26,6 +26,7 @@
 ## 🙋 FAQ
 
 -	Q: **_"Polybar doesn't work with the colors"_**
+
 	A: Make sure you included the file in the right place and you are using `${colors.COLOR}`
 
 ## 💝 Thanks to

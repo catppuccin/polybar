@@ -1,0 +1,27 @@
+# A Catppuccin RC file for Helix. In beta, specs may change.
+app_name: polybar # name of app
+binary_name: polybar # name of executably
+installation: # Install instructions
+  location:
+    macos: ~/.config/polybar/
+    linux: ~/.config/polybar/
+    
+  flavours: # Specific flavours
+    all:
+      default:
+        - themes
+    latte:
+      default:
+        - themes/latte.ini
+    frappe:
+      default:       
+        - themes/frappe.ini
+    macchiato:
+      default:
+        - themes/macchiato.ini
+    mocha:
+      default:
+        - themes/mocha.ini
+  to: ~/.config/polybar/  # Install location
+  one_flavour: false # Only one flavour?
+   
