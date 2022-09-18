@@ -7,9 +7,6 @@ installation: # Install instructions
     linux: ~/.config/polybar/
     
   flavours: # Specific flavours
-    all:
-      default:
-        - themes
     latte:
       default:
         - themes/latte.ini
