@@ -1,4 +1,4 @@
-# A Catppuccin RC file for Helix. In beta, specs may change.
+# A Catppuccin RC file for Polybar. In beta, specs may change.
 app_name: polybar # name of app
 binary_name: polybar # name of executably
 installation: # Install instructions
@@ -19,6 +19,6 @@ installation: # Install instructions
     mocha:
       default:
         - themes/mocha.ini
-  to: ~/.config/polybar/  # Install location
+  to: .  # Install location
   one_flavour: false # Only one flavour?
    
