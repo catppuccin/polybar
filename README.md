@@ -29,6 +29,11 @@
 
 	A: Make sure you included the file in the right place and you are using `${colors.COLOR}`
 
+-	Q: **_"How do I use the colour file"_**
+
+	A: The exact theme is up to you, but something like [this](https://github.com/catppuccin/polybar/issues/1#issuecomment-1561818935) can help you get started.
+
+
 ## 💝 Thanks to
 
 - [justTOBBI](https://github.com/justTOBBI)
