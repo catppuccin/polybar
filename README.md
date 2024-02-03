@@ -31,7 +31,7 @@
 
 -	Q: **_"How do I use the color file"_**
 
-	A: The exact theme is up to you, but something like [this](https://github.com/catppuccin/polybar/issues/1#issuecomment-1561818935) can help you get started.
+	A: The exact theme is up to you, but a basic config can be found in [catppuccin/polybar#1 (comment)](https://github.com/catppuccin/polybar/issues/1#issuecomment-1561818935) to help you get started.
 
 
 ## 💝 Thanks to
