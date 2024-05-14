@@ -1,0 +1,20 @@
+---
+whiskers:
+  version: 2.1.0
+  matrix:
+    - flavor
+  filename: "themes/{{ flavor.identifier }}.ini"
+---
+
+{%- set palette = flavor.colors -%}
+
+;-------------------------
+; Catppuccin {{ flavor.name }} Palette
+; Maintainer: justTOBBI
+;--------------------------
+
+[colors]
+{%- for _, color in palette %}
+ {{ color.identifier }} = #{{ color.hex }}
+{%- endfor %}
+ transparent = #FF00000
