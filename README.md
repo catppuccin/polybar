@@ -19,14 +19,13 @@
 
 1. Copy/move the flavor of your choice from [`themes/`](./themes/) to your Polybar configuration directory (typically `~/.config/polybar`).
 2. Include the file in your `config.ini` under `[global/wm]` by adding `include-file = $HOME/.config/polybar/<flavor>.ini`.
-3. When setting colors, use `${colors.COLOR}` e.g. `${colors.base}`
 
 ## 🙋 FAQ
 
-- Q: **_"How do I set a color?"_**
+- Q: **_"How do I set a color?"_**\
   A: Use `${colors.<color>}` (e.g. `${colors.base}`).
 
-- Q: **_"How do I use the color file"_**
+- Q: **_"How do I use the color file"_**\
   A: The exact theme is up to you, but a basic configuration can be found in [catppuccin/polybar#1 (comment)](https://github.com/catppuccin/polybar/issues/1#issuecomment-1561818935) to help you get started.
 
 ## 💝 Thanks to
