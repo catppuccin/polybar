@@ -25,7 +25,7 @@
 - Q: **_"How do I set a color?"_**\
   A: Use `${colors.<color>}` (e.g. `${colors.base}`).
 
-- Q: **_"How do I use the color file"_**\
+- Q: **_"How do I use the color file?"_**\
   A: The exact theme is up to you, but a basic configuration can be found in [catppuccin/polybar#1 (comment)](https://github.com/catppuccin/polybar/issues/1#issuecomment-1561818935) to help you get started.
 
 ## 💝 Thanks to
